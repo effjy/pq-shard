@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=PQ-Shard
+GenericName=Secret Sharing
+Comment=Split a secret into shares with post-quantum Shamir secret sharing
+Exec=pqshard-gui
+Icon=pqshard
+Terminal=false
+Categories=Utility;Security;GTK;
+Keywords=shamir;secret;sharing;split;threshold;backup;recovery;post-quantum;security;crypto;
+StartupNotify=true
+StartupWMClass=pqshard-gui
