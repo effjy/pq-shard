@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/effjy/pq-shard/"><img src="titles/pqshard-title.svg" height="64" alt="PQ-Shard v1.0.2"></a>
+<a href="https://github.com/effjy/pq-shard/"><img src="titles/pq-shard-title.svg" height="52" alt="PQ-Shard v1.0.2"></a>
 
 **Split a secret into _N_ shares so that any _K_ of them rebuild it — and fewer
 reveal nothing. A GTK3 desktop app and CLI for Shamir's Secret Sharing, with an
